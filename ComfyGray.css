@@ -1607,15 +1607,6 @@ html.platform-osx .scroller-2TZvBN {
 }
 
 
-/* main colors for the theme */
-.theme-dark,
-.theme-light {
-	--background-primary: transparent;
-	--background-secondary: transparent;
-	--color-brand-lighter: #383838;
-
-}
-
 /* text selection colors */
 ::selection {
 	color: #c2c2c2;
