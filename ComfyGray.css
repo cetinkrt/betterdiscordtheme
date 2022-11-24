@@ -227,7 +227,7 @@
 
 /* channel hover things :) */
 .container-ZMc96U.themed-Hp1KC_ {
-	background-color: #0f0f0f;
+	background-color: transparent;
 }
 
 .modeSelected-3DmyhH .content-1gYQeQ {
@@ -245,7 +245,7 @@
 
 .wrapper-NhbLHG:hover .content-1gYQeQ {
 	transition: 0.4s ease;
-	background-color: #383838a9 !important;
+	background-color: transparent !important;
 	border-radius: 5px;
 }
 
@@ -325,7 +325,7 @@
   margin-left: 25px;
 }
 .accountProfileCard-lbN7n-{
-  background-color: #151515;
+  background-color: transparent;
 }
 .accountProfileCard-lbN7n- .button-f2h6uQ{
   border-radius: 25px;
@@ -497,7 +497,7 @@
 .scrollableContainer-15eg7h:not(.addFriendInputWrapper-kkoSV9 .inputWrapper-1YNMmM .inputDefault-3FGxgL, [placeholder^="Search"]),
 .input-3r5zZY,
 .input-2g-os5 {
-	background-color: #303030 !important;
+	background-color: transparent !important;
 	transition: background-color 0.2s ease, border-color 0.2s ease !important;
 	border: 1px solid transparent !important;
 	outline: none !important;
@@ -902,7 +902,7 @@ button[aria-label="Show Game Activity"]::before {
 }
 
 .root-cw9rWQ .option-1O-Hwt {
-	background-color: #171717;
+	background-color: transparent;
 	transition: 0.5s ease;
 	margin-bottom: 10px;
 	border: none;
@@ -956,7 +956,7 @@ button[aria-label="Show Game Activity"]::before {
 .wrapper-3kah-n.selected-1Drb7Z .childWrapper-1j_1ub,
 .wrapper-3kah-n:hover .childWrapper-1j_1ub,
 #bd-pub-button:hover {
-	background-color: #444444 !important;
+	background-color: transparent !important;
 }
 
 #bd-pub-button {
