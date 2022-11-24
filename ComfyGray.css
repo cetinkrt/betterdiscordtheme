@@ -13,7 +13,7 @@
 
 .theme-dark,
 .theme-light {
-	--header-secondary: #b9bbbe;
+	--header-secondary: transparent;
 	--text-normal: #dcddde;
 	--text-muted: #a3a6aa;
 	--text-link: hsl(197, calc(var(--saturation-factor, 1)*100%), 47.8%);
